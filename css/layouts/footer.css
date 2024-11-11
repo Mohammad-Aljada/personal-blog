@@ -1,0 +1,17 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+    font-size: 0.9em;
+    color: #888;
+    background-color: #f1f1f1;
+    margin-top: 20px;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  footer a {
+    color: #007bff;
+    text-decoration: none;
+}
